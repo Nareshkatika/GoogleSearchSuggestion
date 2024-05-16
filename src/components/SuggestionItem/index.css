@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.arrowEl {
+  height: 14px;
+  width: 14px;
+}
+
+.rowArrangeEl1 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
